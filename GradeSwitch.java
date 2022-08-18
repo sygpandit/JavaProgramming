@@ -5,7 +5,7 @@
 // D -> Needs improvement!
 // F -> Fail!
 import java.util.Scanner;
-public class GradeSwitch{
+class GradeSwitch{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the grade");

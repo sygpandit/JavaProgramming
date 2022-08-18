@@ -1,7 +1,7 @@
 //program to enter numbers and display it in reverse order
 
 import java.util.Scanner;
-public class ReverseNumber{
+ class ReverseNumber{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number");

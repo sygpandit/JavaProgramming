@@ -1,7 +1,7 @@
 // Program to enter number and find its factorial 
 
 import java.util.Scanner;
-public class Factorial{
+class Factorial{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number");

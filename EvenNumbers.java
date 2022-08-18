@@ -1,7 +1,7 @@
 //program to display even numbers less than n numbers using for loop
 
 import java.util.Scanner;
-public class EvenNumbers{
+class EvenNumbers{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number");

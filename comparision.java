@@ -1,6 +1,6 @@
 //program to enter 3 numbers and display the largest number using && operator
 import java.util.Scanner;
-public class Comparision{
+class Comparision{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the first number");
